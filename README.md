@@ -35,9 +35,10 @@ CS senior student at PSAU, interested in Artificial intelligence.
 
 ## Languages :pencil2:
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRazany98&count_bg=%233DC1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Java&edge_flat=false)](https://hits.seeyoufarm.com) 
+![Java](https://img.shields.io/badge/-JAVA-1DEAE4?logo=java&logoColor=fff)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HTML&edge_flat=false)](https://hits.seeyoufarm.com) 
+![Python](https://img.shields.io/badge/-PYTHON-AD2ADE?logo=python&logoColor=fff)
 
+![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ## Stats :star:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Razany98&theme=highcontrast&show_icons=true&count_private=true)
