@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-CS senior student at PSAU, interested in Artificial intelligence. 
+Graduated Computer Science of PSAU, interested in Artificial intelligence. 
 - 🔭 I’m currently working on UI/UX, & Frontend Development.
 - 🌱 Trying to learn everything 😄
 - 📫 Reach me at: [![1.2]][1]     [![1.3]][2]
