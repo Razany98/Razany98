@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-Master of Data Science of PSAU, interested in Artificial intelligence. 
-- 🔭 I’m currently working on UI/UX, & Frontend Development.
-- 🌱 Trying to learn everything 😄
+Master of Data Science of PSAU, interested in Data Analysis / Machine Learning and Artificial intelligence. 
+<!--- 🔭 I’m currently working on UI/UX, & Frontend Development.
+- 🌱 Trying to learn everything 😄 -->
 - 📫 Reach me at: [![1.2]][1]     [![1.3]][2]
 
 [1.2]: https://icons.iconarchive.com/icons/uiconstock/socialmedia/24/Twitter-icon.png
@@ -27,17 +27,17 @@ Master of Data Science of PSAU, interested in Artificial intelligence.
 ######
 
 ## Interests :fire:
-- Data Science :books:
-- Front end Developing ![1.4]
+- Data Science / Data Analysis :books:
+- Machine Learning ![1.4]
 - Web & Graphic designing :art:
 
 [1.4]: https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/24/Other-html-5-icon.png
 
 ## Languages :pencil2:
 
-![Java](https://img.shields.io/badge/-JAVA-1DEAE4?logo=java&logoColor=fff)
-
 ![Python](https://img.shields.io/badge/-PYTHON-AD2ADE?logo=python&logoColor=fff)
+
+![Java](https://img.shields.io/badge/-JAVA-1DEAE4?logo=java&logoColor=fff)
 
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ## Stats :star:
