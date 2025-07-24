@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-Master of Data Science of PSAU, interested in Data Analysis / Machine Learning and Artificial intelligence. 
+Master of Data Science of PSAU, interested in Data Science / Data Analysis and Machine Learning. 
 <!--- 🔭 I’m currently working on UI/UX, & Frontend Development.
 - 🌱 Trying to learn everything 😄 -->
 - 📫 Reach me at: [![1.2]][1]     [![1.3]][2]
@@ -27,11 +27,9 @@ Master of Data Science of PSAU, interested in Data Analysis / Machine Learning a
 ######
 
 ## Interests :fire:
-- Data Science / Data Analysis :books:
-- Machine Learning ![1.4]
-- Web & Graphic designing :art:
-
-[1.4]: https://icons.iconarchive.com/icons/cornmanthe3rd/metronome/24/Other-html-5-icon.png
+- :books: Data Science / Data Analysis 
+- :robot: Machine Learning / AI 
+- :art: Web & Graphic designing 
 
 ## Languages :pencil2:
 
