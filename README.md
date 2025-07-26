@@ -17,6 +17,9 @@ Master of Data Science of PSAU, interested in Data Science / Data Analysis and M
 <!--- 🔭 I’m currently working on UI/UX, & Frontend Development.
 - 🌱 Trying to learn everything 😄 -->
 - 📫 Reach me at: [![1.2]][1]     [![1.3]][2]
+- 💁 View My Notion Portfolio <a href="https://www.notion.so/Razan-209dded2c6408057bd9fc437cd3059e3?source=copy_link" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="20" style="vertical-align:middle;"/> 
+</a>
 
 [1.2]: https://icons.iconarchive.com/icons/uiconstock/socialmedia/24/Twitter-icon.png
 [1]: https://twitter.com/i_amrazan?s=21&t=aCXRwgebQ4PWkbF23faScg 
